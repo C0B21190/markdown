@@ -1,4 +1,4 @@
-# マークダウンで書いたページ
+# jekyll-theme-midnight
 minion!!!
 
 ## minion
